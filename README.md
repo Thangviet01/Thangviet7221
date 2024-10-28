@@ -1,3 +1,3 @@
 ```bash
-#hello
-#code votri vcl
+#print("hello")
+#o day co code votri vcl
