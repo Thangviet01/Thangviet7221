@@ -1,5 +1,5 @@
 ```bash
-#o day co code votri vcl
 #full name: Hoàng Việt Thắng
-#born: 2008
+#born: 27-12-2008
+#Hometown: HaGiang
 #bienvenido
